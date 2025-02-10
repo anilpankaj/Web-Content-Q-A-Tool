@@ -34,6 +34,9 @@ web-content-qa-tool/
 ### qa.py
 - Answers questions based on the ingested content using keyword matching.
 
+### Note: Set your OpenAI API key in the qa.py code section
+#### openai.api_key = "your-openai-api-key"
+
 ## Advanced: Using NLP Models
 For more accurate answers, we integrate an NLP model OpenAI GPT.
 

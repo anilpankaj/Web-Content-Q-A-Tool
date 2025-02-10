@@ -50,7 +50,7 @@ Before setting up the tool, ensure you have:
 Download the project to your local system:
 
 ```sh
-git clone [https://github.com/your-username/web-content-qa-tool.git](https://github.com/anilpankaj/Web-Content-Q-A-Tool.git)
+git clone https://github.com/anilpankaj/Web-Content-Q-A-Tool.git
 cd web-content-qa-tool
 ```
 
@@ -81,13 +81,13 @@ Use the following command to launch the server:
 uvicorn main:app --reload
 ```
 
-The application will be available at [http://127.0.0.1:8000/](http://127.0.0.1:8000/).
+The application will be available at http://127.0.0.1:8000/.
 
 The `--reload` flag enables automatic reloading when you modify the code.
 
 ### 2. Access the Web Interface
 
-Open your browser and visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/). You will find these options:
+Open your browser and visit http://127.0.0.1:8000/. You will find these options:
 
 #### Web Content Q&A Tool
 
@@ -98,7 +98,7 @@ Open your browser and visit [http://127.0.0.1:8000/](http://127.0.0.1:8000/). Yo
 
 ### Ingest URLs
 
-1. Enter one or more URLs in the textarea (one URL per line).
+1. Enter one or more URLs in the text area (one URL per line).
 2. Click **Ingest Content**.
 3. The tool will scrape the content from the provided URLs and store it for Q&A.
 

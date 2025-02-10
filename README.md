@@ -50,7 +50,7 @@ Before setting up the tool, ensure you have:
 Download the project to your local system:
 
 ```sh
-git clone https://github.com/your-username/web-content-qa-tool.git
+git clone [https://github.com/your-username/web-content-qa-tool.git](https://github.com/anilpankaj/Web-Content-Q-A-Tool.git)
 cd web-content-qa-tool
 ```
 
